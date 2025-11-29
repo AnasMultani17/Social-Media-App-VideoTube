@@ -1,6 +1,9 @@
-[submodule "backend"]
-	path = backend
+[submodule "Backend"]
+	path = Backend
 	url = https://github.com/AnasMultani17/Social-Media-App-Backend-Deployment
 [submodule "frontend"]
 	path = frontend
+	url = https://github.com/AnasMultani17/New-Social-Media-App-Frontned
+[submodule "Frontend"]
+	path = Frontend
 	url = https://github.com/AnasMultani17/New-Social-Media-App-Frontned
