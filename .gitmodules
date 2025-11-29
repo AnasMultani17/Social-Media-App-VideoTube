@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/AnasMultani17/Social-Media-App-Backend-Deployment
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/AnasMultani17/New-Social-Media-App-Frontned
